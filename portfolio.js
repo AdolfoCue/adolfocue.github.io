@@ -1,0 +1,1 @@
+$('.carousel-portfolio').carousel();
